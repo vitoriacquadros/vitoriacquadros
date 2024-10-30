@@ -15,12 +15,4 @@
 <div>
   
 <a href="https://instagram.com/v.quadrox" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitoria-cquadros13" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-
-![Snake animation](https://github.com/vitoriacquadros/vitoriacquadros/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-          
-          
-- 👯 Estou procurando colaborar em desenvolvimento em qualquer uma das linguagens de meu aprendizado, mas também estou aberta à novas linguagens!
+<a href="https://www.linkedin.com/in/vitoria-cquadros13" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
